@@ -1,0 +1,22 @@
+{
+  "build_id": "run-YsQzP2",
+  "development": {
+    "owner": "starter + user",
+    "wall_seconds": null,
+    "model_tokens": null,
+    "model_cost_usd": null
+  },
+  "jev": {
+    "scope": "Completion toggle and unfinished count only; UI is a starter.",
+    "runner_seconds": 2.5866423750000003,
+    "decisions": 8,
+    "attempts": 1,
+    "input_tokens": 8666,
+    "output_tokens": 406,
+    "api_cost_usd": 0.000363972,
+    "receipt_sha256": "ba8cbaf8845ec8d43dfb50ab74afb02a2d520eafbfe150c15295165e9d352aa2"
+  },
+  "policy": {
+    "wasm_sha256": "ad69eb3a3768cc95aef3429c414ea6acfbf7dc778ffa7d48a597f737dc0b8f8c"
+  }
+}
