@@ -5,3 +5,5 @@ Serve this directory over HTTP; no compilation is required for the exported brow
 The DOM and unchanged official TodoMVC common/app CSS follow https://github.com/tastejs/todomvc/blob/master/app-spec.md. TodoMVC CSS/common packages are pinned in package.json with MIT notices in LICENSE.todomvc. Mithril starter is Apache-2.0; the retained policy artifact license is LICENSE.mithril-policy.
 
 Persistence uses todos-mithril with id/title/completed. Previously saved Mithril sample tasks are migrated once when this key is absent; the old key is retained. New profiles start empty. Editing state is never persisted. Official submission, all-browser support and Speedometer upstream inclusion are not implied by local conformance tests. Runtime measurements must name the benchmark/workload and environment.
+
+Reviewed and saved from Mithril Desktop 0.8.0-preview.23 on 2026-10-06.
